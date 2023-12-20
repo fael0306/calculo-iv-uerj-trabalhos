@@ -1,5 +1,3 @@
-# Trabalhos de Cálculo IV da UERJ
-
 # PyPlankRayleighJeans
 Este código foi feito como um trabalho da disciplina de Cálculo IV da professora Cristiane Faria do curso de Ciência da Computação da Universidade do Estado do Rio de Janeiro.
 
